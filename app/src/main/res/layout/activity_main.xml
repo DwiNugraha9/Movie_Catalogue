@@ -28,7 +28,7 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="16dp"
-                android:text="The Movie DB"
+                android:text="Movie Catalogue"
                 android:textSize="30sp"
                 android:textStyle="bold"/>
 

@@ -28,7 +28,8 @@ class MainActivity : AppCompatActivity() {
 
             }
 
-            override fun onResponse( call: retrofit2.Call<MovieResponse>, response: Response<MovieResponse>)     {
+            override fun onResponse( call: retrofit2.Call<MovieResponse>, response: Response<MovieResponse>)
+            {
                 return callback(response.body()!!.movies)
             }
         })
