@@ -7,10 +7,15 @@
         <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/drawable/ic_launcher_background.xml" value="0.129" />
         <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/activity_detail_movie.xml" value="0.14" />
         <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/activity_detail_movie2.xml" value="0.161231884057971" />
-        <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/detail_movie.xml" value="0.16168478260869565" />
         <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/detailmovie.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/fragment_favorite.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/fragment_movie.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/fragment_movie2.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/fragment_tv_show.xml" value="0.14764492753623187" />
         <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/layout/movie_item.xml" value="0.1" />
+        <entry key="..\:/Users/Dwi Nugraha/AndroidStudioProjects/MovieCatalogue/app/src/main/res/menu/menu_bottom.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

@@ -21,7 +21,7 @@ class DetailMovieActivity : AppCompatActivity() {
         tv_title.text = movies?.title
         tv_rating.text = movies?.popularity
         tv_overview.text = movies?.overview
-        tv_status.text = movies?.popularity
+        tv_status.text = movies?.status
 
         Glide.with(img_poster).load(IMAGE_BASE + movies!!.poster).into(img_poster)
     }
